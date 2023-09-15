@@ -30,7 +30,7 @@ export default function BookAdding() {
       )} successfully!!!`
     );
     navigate("/");
-    window.location.reload();
+    // window.location.reload();
   }
   
   function getBackBookList() {
